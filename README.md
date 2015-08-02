@@ -1,0 +1,2 @@
+# GistSampleRails
+Gistで利用するサンプルを保持しておくレポジトリ
